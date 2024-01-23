@@ -8,7 +8,7 @@
 
 除此之外，还和数十家自动驾驶公司建立了内推渠道，简历直达！这里可以自由提问交流，许多算法工程师和硕博日常活跃，解决问题！初衷是希望能够汇集行业大佬的智慧，在学习和就业上帮到大家！星球的每周活跃度都在前50内，非常注重大家积极性的调度和讨论，欢迎加入一起成长！
 
-[加入链接：自动驾驶之心知识星球 | 国内首个自动驾驶全栈学习社区，近30+感知/融合/规划/标定/预测等学习路线](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247580846&idx=1&sn=8bef76bf11bb0d5a92c32efdff315750&chksm=ceb99167f9ce18712e01dbbdb3991405ea619b5c8c57681c4f27debc8cc117cfb6d2690da9da&scene=21&token=85321819&lang=zh_CN#wechat_redirect)
+[加入链接：自动驾驶之心知识星球 | 国内首个自动驾驶全栈学习社区，近30+感知/融合/规划/标定/预测等学习路线](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247580846&idx=1&sn=8bef76bf11bb0d5a92c32efdff315750&chksm=ceb99167f9ce18712e01dbbdb3991405ea619b5c8c57681c4f27debc8cc117cfb6d2690da9da&scene=21&token=85321819&lang=zh_CN#wechat_redirect) 
 
 ## 自动驾驶课程
 
@@ -64,7 +64,11 @@
 
 [在线高精地图与自动驾驶论文带读教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2ZXECfaORjGOsNH5ro5kULmfIOA)
 
-### 8）大专栏系列
+### 8）自动驾驶仿真
+
+[自动驾驶离不开的仿真！Carla-Autoware联合仿真实战](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2bCKkNYcHG2Vs9Nnynr5bZZQwBr)
+
+### 9）大专栏系列
 
 [多传感器融合感知标定全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2PiRligVG0RyIohy6A3covkScbw)
 
@@ -84,7 +88,7 @@
 
 今年的技术变更实在很快，在线高精地图、大模型、端到端自动驾驶、世界模型、Occ、Nerf这些新兴技术，慢慢走向量产的计划中，今天自动驾驶之心就为大家盘下近百篇综述和经典论文，涉及感知、定位、融Occupancy、大模型、端到端、规划控制、BEV感知、数据相关等，一览自动驾驶发展路线。
 
-所有综述，均可在 [自动驾驶之心】知识星球](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247580846&idx=1&sn=8bef76bf11bb0d5a92c32efdff315750&chksm=ceb99167f9ce18712e01dbbdb3991405ea619b5c8c57681c4f27debc8cc117cfb6d2690da9da&scene=21&token=85321819&lang=zh_CN#wechat_redirect) 内下载！
+所有综述，均可在[【自动驾驶之心】知识星球](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247580846&idx=1&sn=8bef76bf11bb0d5a92c32efdff315750&chksm=ceb99167f9ce18712e01dbbdb3991405ea619b5c8c57681c4f27debc8cc117cfb6d2690da9da&scene=21&token=85321819&lang=zh_CN#wechat_redirect) 内下载！
 
 ### 0）自动驾驶功能与系统综述
 
@@ -176,6 +180,8 @@
 4. Radars for Autonomous Driving: A Review of Deep Learning Methods and Challenges
 5. Towards Deep Radar Perception for Autonomous Driving: Datasets, Methods, and Challenges
 6. 4D Millimeter-Wave Radar in Autonomous Driving: A Survey
+7. Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review
+8. Radar Perception in Autonomous Driving: Exploring Different Data Representations
 
 ### 8）多模态/多传感融合
 
