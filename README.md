@@ -214,6 +214,8 @@
 7. Deep Learning for 3D Point Cloud Understanding：A Survey
 8. Multi-Modal 3D Object Detection in Autonomous Driving：a survey
 9. Survey and Systematization of 3D Object Detection Models and Methods
+10. Multi-Modal 3D Object Detection in Autonomous Driving: A Survey and Taxonomy
+11. Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook
 
 ### 10）多传感器标定
 
