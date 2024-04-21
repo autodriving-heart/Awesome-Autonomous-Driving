@@ -75,7 +75,7 @@
 
 [端到端自动驾驶论文带读课程](https://www.zdjszx.com/p/t_pc/course_pc_detail/camp_pro/course_2dafJ29B5gJfAaifAv2DouiEFai)
 
-### 9）大专栏系列
+### 10) 大专栏系列
 
 [多传感器融合感知标定全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2PiRligVG0RyIohy6A3covkScbw)
 
