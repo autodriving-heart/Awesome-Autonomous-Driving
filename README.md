@@ -38,6 +38,9 @@
 
 [毫米波雷达和视觉融合感知全栈教程（深度学习+传统方式）](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2OpLfiVIGEGIt0vdHhqie7LqFbG)
 
+[面向工程和量产级的相机标定与实战教程](https://www.zdjszx.com/p/t_pc/course_pc_detail/camp_pro/course_2dY0zjRjQgGPr1Yw8kUUSVjoVQ0)
+
+
 ### 3）模型部署
 
 [基于TensroRT的CNN/Transformer/检测/BEV模型四大部署代码+CUDA加速全栈学习教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2Qzh2CekDJZMNuZq1Gfp3HOgIqx)
@@ -67,6 +70,10 @@
 ### 8）自动驾驶仿真
 
 [自动驾驶离不开的仿真！Carla-Autoware联合仿真实战](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2bCKkNYcHG2Vs9Nnynr5bZZQwBr)
+
+### 9）端到端自动驾驶
+
+[端到端自动驾驶论文带读课程](https://www.zdjszx.com/p/t_pc/course_pc_detail/camp_pro/course_2dafJ29B5gJfAaifAv2DouiEFai)
 
 ### 9）大专栏系列
 
