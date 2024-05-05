@@ -47,7 +47,7 @@
 
 [基于TensroRT的CNN/Transformer/检测/BEV模型四大部署代码+CUDA加速全栈学习教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2Qzh2CekDJZMNuZq1Gfp3HOgIqx)
 
-[BEV模型部署全栈教程（3D检测+车道线+Occ）](https://www.zdjszx.com/p/t_pc/course_pc_detail/camp_pro/course_2fXtzKrLwwDnGjT6VbrpwwL93z)
+[BEV模型部署全栈教程（3D检测+车道线+Occ）](https://www.zdjszx.com/p/t_pc/course_pc_detail/camp_pro/course_2fXtzKrLwwDnGjT6VbrpwwL93zu)
 
 ### 4）规划控制与预测
 
