@@ -22,6 +22,8 @@
 
 [Occupancy从入门到精通全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2TerMWEsK9xR32mtgXwaFdxeSYs)
 
+[Occupancy数据生成与模型实战教程](https://www.zdjszx.com/p/t_pc/course_pc_detail/camp_pro/course_2fVGR98IK1I7exNetWW1gu7pp5A)
+
 [国内首个面向量产的车道线感知教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2UdY0Nw3nbRWYDJv9o9lgMcOvti)
 
 [点云3D目标检测理论与实战教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2WTzeULfAL2IZ32ezqrHhIQyrKG)
@@ -44,6 +46,8 @@
 ### 3）模型部署
 
 [基于TensroRT的CNN/Transformer/检测/BEV模型四大部署代码+CUDA加速全栈学习教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2Qzh2CekDJZMNuZq1Gfp3HOgIqx)
+
+[BEV模型部署全栈教程（3D检测+车道线+Occ）](https://www.zdjszx.com/p/t_pc/course_pc_detail/camp_pro/course_2fXtzKrLwwDnGjT6VbrpwwL93z)
 
 ### 4）规划控制与预测
 
@@ -75,7 +79,11 @@
 
 [端到端自动驾驶论文带读课程](https://www.zdjszx.com/p/t_pc/course_pc_detail/camp_pro/course_2dafJ29B5gJfAaifAv2DouiEFai)
 
-### 10) 大专栏系列
+### 10) 科研论文教程
+
+[自动驾驶与CV领域通用论文辅导教程](https://www.zdjszx.com/p/t_pc/course_pc_detail/camp_pro/course_2fVN5mXs65AOEQZk6ByGdSuzbF2)
+
+### 11) 大专栏系列
 
 [多传感器融合感知标定全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2PiRligVG0RyIohy6A3covkScbw)
 
