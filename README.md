@@ -179,6 +179,8 @@
 ### 5）Occupancy占用网络
 
 1. Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review
+2. A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective
+3. Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 
 ### 6）BEV感知
 
