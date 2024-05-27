@@ -107,28 +107,67 @@
 
 ### 0）自动驾驶功能与系统综述
 
-1. A review: The Self-Driving Car’s Requirements and The Challenges it Faces
-2. Object Detection, Recognition, and Tracking Algorithms for ADAS：A Study on Recent Trends
-3. Survey of Technology in Autonomous Valet Parking System
-4. Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions
-5. Potential sources of sensor data anomalies for autonomous vehicles: An overview from road vehicle safety perspective
-6. A review of occluded objects detection in real complex scenarios for autonomous driving
-7. A survey on deep learning approaches for data integration in Autonomous Driving System
-8. Milestones in Autonomous Driving and Intelligent Vehicles
-9. Perception and sensing for autonomous vehicles under adverse weather conditions: A survey
+1. Towards Autonomous Driving with Small-Scale Cars: A Survey of Recent Development
+2. A review: The Self-Driving Car’s Requirements and The Challenges it Faces
+3. Object Detection, Recognition, and Tracking Algorithms for ADAS：A Study on Recent Trends
+4. Survey of Technology in Autonomous Valet Parking System
+5. Applications of Computer Vision in Autonomous Vehicles: Methods, Challenges and Future Directions
+6. Potential sources of sensor data anomalies for autonomous vehicles: An overview from road vehicle safety perspective
+7. A review of occluded objects detection in real complex scenarios for autonomous driving
+8. A survey on deep learning approaches for data integration in Autonomous Driving System
+9. Milestones in Autonomous Driving and Intelligent Vehicles
+10. Perception and sensing for autonomous vehicles under adverse weather conditions: A survey
 
 ### 1）数据集汇总
+
+**综述相关：**
 
 1. A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook
 2. A Survey on Self-evolving Autonomous Driving: a Perspective on Data Closed-Loop Technology
 3. A Survey on Datasets for Decision-making of Autonomous Vehicle
 
-### 1）端到端自动驾驶
+**数据集：**
+
+**Nuscenes：** nuscenes数据集下有多个任务，涉及Detection（2D/3D）、Tracking、prediction、激光雷达分割、全景任务、规划控制等；
+
+链接：https://www.nuscenes.org/
+
+**KITTI：** https://www.cvlibs.net/
+
+**Wamyo：** https://waymo.com/open/
+
+**BDD100K：** https://www.vis.xyz/bdd100k/
+
+**Lyft L5数据集：** https://level-5.global/data/
+
+**ApplloScape：** http://apolloscape.auto/index.html
+
+**Argoverse/Argoversev2：** https://www.argoverse.org/
+
+**Occ3D：** http://tsinghua-mars-lab.github.io
+
+**nuPlan：** http://nuscenes.org
+
+**ONCE：** https://opendatalab.org.cn/ONCE
+
+**Cityscape：** https://opendatalab.org.cn/CityScapes
+
+**YouTube Driving Dataset：** https://opendatalab.org.cn/YouTube_Driving_Dataset
+
+**A2D2：** https://opendatalab.org.cn/A2D2
+
+**SemanticKITTI：** https://opendatalab.org.cn/SemanticKITTI
+
+**OpenLane：** https://opendatalab.org.cn/OpenLane
+
+**OpenLane-V2：** https://opendatalab.org.cn/OpenLane-V2
+
+### 2）端到端自动驾驶
 
 1. Recent Advancements in End-to-End Autonomous Driving using Deep Learning: A Survey
 2. End-to-end Autonomous Driving: Challenges and Frontiers
 
-### 2）在线地图与离线地图
+### 3）在线高精地图
 
 1. High-Definition Maps Construction Based on Visual Sensor: A Comprehensive Survey
 2. Data Issues in High Definition Maps Furniture – A Survey
@@ -138,34 +177,35 @@
 6. MapTRv2：一种在线矢量化高清地图构建的端到端框架
 7. PivotNet：基于动态枢纽点的矢量化地图构建 （ICCV2023）
 8. BeMapNet：基于贝塞尔曲线的矢量化地图构建 (CVPR2023)
-9. LATR:  无显式BEV 特征的3D车道线检测 (ICCV2023)
+9. LATR: 无显式BEV 特征的3D车道线检测 (ICCV2023)
 10. TopoNet: 基于图的驾驶场景拓扑推理
 11. TopoMLP: 先检测后推理（拓扑推理 strong pipeline）
 12. LaneGAP：连续性在线车道图构建
 13. Neural Map Prior: 神经地图先验辅助在线建图 （CVPR2023）
 14. MapEX：现有地图先验显著提升在线建图性能
 
-### 3）大模型与自动驾驶
+### 4）大模型与自动驾驶
 
-1. A Survey on Multimodal Large Language Models for Autonomous Driving
-2. A Survey of Large Language Models for Autonomous Driving
-3. CLIP：Learning Transferable Visual Models From Natural Language Supervision
-4. BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
-5. BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
-6. InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning
-7. MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
-8. InstructGPT：Training language models to follow instructions with human feedback
-9. ADAPT: Action-aware Driving Caption Transformer
-10. BEVGPT：Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning
-11. DriveGPT4：Interpretable End-to-end Autonomous Driving via Large Language Model
-12. Drive Like a Human Rethinking Autonomous Driving with Large Language Models
-13. Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving
-14. HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving
-15. LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving
-16. Planning-oriented Autonomous Driving
-17. WEDGE A multi-weather autonomous driving dataset built from generative vision-language models
+1. A Survey for Foundation Models in Autonomous Driving
+2. A Survey on Multimodal Large Language Models for Autonomous Driving
+3. A Survey of Large Language Models for Autonomous Driving
+4. CLIP：Learning Transferable Visual Models From Natural Language Supervision
+5. BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
+6. BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
+7. InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning
+8. MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
+9. InstructGPT：Training language models to follow instructions with human feedback
+10. ADAPT: Action-aware Driving Caption Transformer
+11. BEVGPT：Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning
+12. DriveGPT4：Interpretable End-to-end Autonomous Driving via Large Language Model
+13. Drive Like a Human Rethinking Autonomous Driving with Large Language Models
+14. Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving
+15. HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving
+16. LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving
+17. Planning-oriented Autonomous Driving
+18. WEDGE A multi-weather autonomous driving dataset built from generative vision-language models
 
-### 4）Nerf与自动驾驶
+### 5）Nerf与自动驾驶
 
 1. NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review
 2. Neural Volume Rendering: NeRF And Beyond
@@ -176,20 +216,21 @@
 7. UniOcc：NeRF和3D占用网络（AD2023 Challenge）
 8. Unisim：自动驾驶场景的传感器模拟（CVPR2023）
 
-### 5）Occupancy占用网络
+### 6）Occupancy占用网络
 
-1. Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review
-2. A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective
-3. Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
+1. Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
+2. Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review
+3. A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective
+4. Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
 
-### 6）BEV感知
+### 7）BEV感知
 
 1. Vision-Centric BEV Perception: A Survey
 2. Vision-RADAR fusion for Robotics BEV Detections: A Survey
 3. Surround-View Vision-based 3D Detection for Autonomous Driving: A Survey
 4. Delving into the Devils of Bird’s-eye-view Perception: A Review, Evaluation and Recipe
 
-### 7）毫米波雷达感知
+### 8）毫米波雷达感知
 
 1. Recent Advances in mmWave-Radar-Based Sensing, Its Applications, and Machine Learning Techniques: A Review
 2. A Survey of Automotive Radar and Lidar Signal Processing and Architectures
@@ -200,54 +241,63 @@
 7. Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review
 8. Radar Perception in Autonomous Driving: Exploring Different Data Representations
 
-### 8）多模态/多传感融合
+### 9）多模态/多传感融合
 
 针对Lidar、Radar、视觉等数据方案进行融合感知；
 
-1. A Comparative Review on Multi-modal Sensor Fusion based on Deep Learning
-2. Emerging Trends in Autonomous Vehicle Perception: Multimodal Fusion for 3D Object Detection
-3. A Survey on Deep Domain Adaptation for LiDAR Perception
-4. Automatic Target Recognition on Synthetic Aperture Radar Imagery：A Survey
-5. Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving：Datasets, Methods, and Challenges
-6. MmWave Radar and Vision Fusion for Object Detection in Autonomous Driving：A Review
-7. Multi-Modal 3D Object Detection in Autonomous Driving：A Survey
-8. Multi-modal Sensor Fusion for Auto Driving Perception：A Survey
-9. Multi-Sensor 3D Object Box Refinement for Autonomous Driving
-10. Multi-View Fusion of Sensor Data for Improved Perception and Prediction in Autonomous Driving
-11. Multimodal Learning With Transformers: A Survey
-12. Deep Model Fusion: A Survey
-13. Camera-Radar Perception for Autonomous Vehicles and ADAS: Concepts, Datasets and Metrics
+1. Multimodal Fusion on Low-quality Data: A Comprehensive Survey
+2. A Comparative Review on Multi-modal Sensor Fusion based on Deep Learning
+3. Emerging Trends in Autonomous Vehicle Perception: Multimodal Fusion for 3D Object Detection
+4. A Survey on Deep Domain Adaptation for LiDAR Perception
+5. Automatic Target Recognition on Synthetic Aperture Radar Imagery：A Survey
+6. Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving：Datasets, Methods, and Challenges
+7. MmWave Radar and Vision Fusion for Object Detection in Autonomous Driving：A Review
+8. Multi-Modal 3D Object Detection in Autonomous Driving：A Survey
+9. Multi-modal Sensor Fusion for Auto Driving Perception：A Survey
+10. Multi-Sensor 3D Object Box Refinement for Autonomous Driving
+11. Multi-View Fusion of Sensor Data for Improved Perception and Prediction in Autonomous Driving
+12. Multimodal Learning With Transformers: A Survey
+13. Deep Model Fusion: A Survey
+14. Camera-Radar Perception for Autonomous Vehicles and ADAS: Concepts, Datasets and Metrics
 
-### 9）3D目标检测
+### 10）3D目标检测
 
 对基于单目图像、双目图像、点云数据、多模态数据的3D检测方法进行了梳理；
 
-1. Emerging Trends in Autonomous Vehicle Perception: Multimodal Fusion for 3D Object Detection
-2. 3D Object Detection for Autonomous Driving: A Practical Survey
-3. 3D Object Detection for Autonomous Driving：A Review and New Outlooks
-4. 3D Object Detection from Images for Autonomous Driving A Survey
-5. A Survey of Robust LiDAR-based 3D Object Detection Methods for autonomous driving
-6. A Survey on 3D Object Detection Methods for Autonomous Driving Applications
-7. Deep Learning for 3D Point Cloud Understanding：A Survey
-8. Multi-Modal 3D Object Detection in Autonomous Driving：a survey
-9. Survey and Systematization of 3D Object Detection Models and Methods
-10. Multi-Modal 3D Object Detection in Autonomous Driving: A Survey and Taxonomy
-11. Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook
+1. Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook
+2. Emerging Trends in Autonomous Vehicle Perception: Multimodal Fusion for 3D Object Detection
+3. 3D Object Detection for Autonomous Driving: A Practical Survey
+4. 3D Object Detection for Autonomous Driving：A Review and New Outlooks
+5. 3D Object Detection from Images for Autonomous Driving A Survey
+6. A Survey of Robust LiDAR-based 3D Object Detection Methods for autonomous driving
+7. A Survey on 3D Object Detection Methods for Autonomous Driving Applications
+8. Deep Learning for 3D Point Cloud Understanding：A Survey
+9. Multi-Modal 3D Object Detection in Autonomous Driving：a survey
+10. Survey and Systematization of 3D Object Detection Models and Methods
+11. Multi-Modal 3D Object Detection in Autonomous Driving: A Survey and Taxonomy
+12. Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook
 
-### 10）多传感器标定
+### 11）多传感器标定
 
-1. A Comprehensive Overview of Fish-Eye Camera Distortion Correction Methods
-2. External Extrinsic Calibration of Multi-Modal Imaging Sensors: A Review
-3. Deep Learning for Camera Calibration and Beyond: A Survey
+1. Survey on Camera Calibration Technique
+2. Revisit Surround-view Camera System Calibration
+3. Camera calibration for the surround-view system: a benchmark and dataset
+4. Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review
+5. A Comprehensive Overview of Fish-Eye Camera Distortion Correction Methods
+6. External Extrinsic Calibration of Multi-Modal Imaging Sensors: A Review
+7. Deep Learning for Camera Calibration and Beyond: A Survey
 
-### 11）规划控制与轨迹预测
+### 12）规划控制与轨迹预测
 
-1. Planning and Learning: Path-Planning for Autonomous Vehicles, a Review of the Literature
-2. Human-Like Decision-Making of Autonomous Vehicles in Dynamic Traffic Scenarios
-3. Machine Learning for Autonomous Vehicle’s Trajectory Prediction: A comprehensive survey, Challenges, and Future Research Directions
-4. Trajectory-Prediction with Vision: A Survey
+1. A Survey on Path Planning for Autonomous Ground Vehicles in Unstructured Environments
+2. Path Planning Algorithms in the Autonomous Driving System: A Comprehensive Review
+3. Deep Learning for Trajectory Data Management and Mining: A Survey and Beyond
+4. Planning and Learning: Path-Planning for Autonomous Vehicles, a Review of the Literature
+5. Human-Like Decision-Making of Autonomous Vehicles in Dynamic Traffic Scenarios
+6. Machine Learning for Autonomous Vehicle’s Trajectory Prediction: A comprehensive survey, Challenges, and Future Research Directions
+7. Trajectory-Prediction with Vision: A Survey
 
-### 12）目标检测综述
+### 13）目标检测综述
 
 主要涉及通用目标检测任务、检测任务中的数据不均衡问题、伪装目标检测、自动驾驶领域检测任务、anchor-based、anchor-free、one-stage、two-stage方案等；
 
@@ -260,18 +310,19 @@
 7. Object Detection in Autonomous Vehicles：Status and Open Challenges
 8. Recent Advances in Deep Learning for Object Detection
 
-### 13）数据增强与不均衡问题
+### 14）数据增强与不均衡问题
 
 主要涉及目标检测任务中的数据增强、小目标检测、小样本学习、autoargument等工作；
 
-1. A survey on Image Data Augmentation for Deep Learning
-2. Augmentation for small object detection
-3. Bag of Freebies for Training Object Detection Neural Networks
-4. Generalizing from a Few Examples：A Survey on Few-Shot
-5. Learning Data Augmentation Strategies for Object Detection
-6. Advancements  in  Point  Cloud  Data  Augmentation  for  Deep Learning: A Survey
+1. A survey of synthetic data augmentation methods in computer vision
+2. A survey on Image Data Augmentation for Deep Learning
+3. Augmentation for small object detection
+4. Bag of Freebies for Training Object Detection Neural Networks
+5. Generalizing from a Few Examples：A Survey on Few-Shot
+6. Learning Data Augmentation Strategies for Object Detection
+7. Advancements in Point Cloud Data Augmentation for Deep Learning: A Survey
 
-### 14）分割综述
+### 15）分割综述
 
 1. A Review of Point Cloud Semantic Segmentation
 2. A SURVEY ON DEEP LEARNING METHODS FOR SEMANTIC IMAGE SEGMENTATION IN REAL-TIME
@@ -279,12 +330,12 @@
 4. A Survey on Deep Learning Technique for Video Segmentation
 5. A Survey on Instance Segmentation State of the art
 6. A Survey on Label-efficient Deep Segmentation-Bridging the Gap between Weak Supervision and Dense Prediction
-7. A Technical Survey and Evaluation of Traditional Point Cloud Clustering  for LiDAR Panoptic Segmentation
+7. A Technical Survey and Evaluation of Traditional Point Cloud Clustering for LiDAR Panoptic Segmentation
 8. Evolution of Image Segmentation using Deep Convolutional Neural Network A Survey
 9. On Efficient Real-Time Semantic Segmentation
 10. Unsupervised Domain Adaptation for Semantic Image Segmentation-a Comprehensive Survey
 
-### 15）多任务学习
+### 16）多任务学习
 
 对检测+分割+关键点+车道线联合任务训练方法进行了汇总；
 
@@ -298,21 +349,26 @@
 8. YOLOP
 9. YOLO-Pose
 
-### 16）2D/3D目标跟踪
+### 17）2D/3D目标跟踪
 
 对单目标和多目标跟踪、滤波和端到端方法进行了汇总；
 
-1. 3D Multiple Object Tracking on Autonomous Driving: A Literature Review
-2. Camouflaged Object Detection and Tracking：A Survey
-3. Deep Learning for UAV-based Object Detection and Tracking：A Survey
-4. Deep Learning on Monocular Object Pose Detection and Tracking：A Comprehensive Overview
-5. Detection, Recognition, and Tracking：A Survey
-6. Infrastructure-Based Object Detection and Tracking for Cooperative Driving Automation：A Survey
-7. Recent Advances in Embedding Methods for Multi-Object Tracking：A Survey
-8. Single Object Tracking：A Survey of Methods, Datasets, and Evaluation Metrics
-9. Visual Object Tracking with Discriminative Filters and Siamese Networks：A Survey and Outlook
+1. Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method
+2. A Survey of RGB-Depth Object Tracking
+3. Multi-modal Visual Tracking: Review and Experimental Comparison
+4. A Survey for Deep RGBT Tracking
+5. RGBD Object Tracking: An In-depth Review
+6. 3D Multiple Object Tracking on Autonomous Driving: A Literature Review
+7. Camouflaged Object Detection and Tracking：A Survey
+8. Deep Learning for UAV-based Object Detection and Tracking：A Survey
+9. Deep Learning on Monocular Object Pose Detection and Tracking：A Comprehensive Overview
+10. Detection, Recognition, and Tracking：A Survey
+11. Infrastructure-Based Object Detection and Tracking for Cooperative Driving Automation：A Survey
+12. Recent Advances in Embedding Methods for Multi-Object Tracking：A Survey
+13. Single Object Tracking：A Survey of Methods, Datasets, and Evaluation Metrics
+14. Visual Object Tracking with Discriminative Filters and Siamese Networks：A Survey and Outlook
 
-### 17）深度估计
+### 18）深度估计
 
 针对单目、双目深度估计方法进行了汇总，对户外常见问题与精度损失展开了讨论；
 
@@ -323,7 +379,7 @@
 5. Outdoor Monocular Depth Estimation：A Research Review
 6. Towards Real-Time Monocular Depth Estimation for Robotics：A Survey
 
-### 18）关键点检测
+### 19）关键点检测
 
 人体关键点检测方法汇总，对车辆关键点检测具有一定参考价值；
 
@@ -332,7 +388,7 @@
 3. Efficient Annotation and Learning for 3D Hand Pose Estimation：A Survey
 4. Recent Advances in Monocular 2D and 3D Human Pose Estimation：A Deep Learning Perspective
 
-### 19）Transformer综述
+### 20）Transformer综述
 
 视觉transformer、轻量级transformer方法汇总；
 
@@ -343,9 +399,13 @@
 5. A Comprehensive Survey on Applications of Transformers for Deep Learning Tasks
 6. Transformer-based models and hardware acceleration analysis in autonomous driving: A survey
 
-### 20）车道线检测
+### 21）车道线检测
 
 对2D/3D车道线检测方法进行了汇总，基于分类、检测、分割、曲线拟合等；
+
+**综述**
+
+1. Monocular 3D lane detection for Autonomous Driving: Recent Achievements, Challenges, and Outlooks
 
 #### 2D车道线
 
@@ -367,46 +427,77 @@
 5. ONCE-3DLanes：Building Monocular 3D Lane Detection
 6. 3D-LaneNet：End-to-End 3D Multiple Lane Detection
 
-### 21）SLAM
+### 22）SLAM
 
 定位与建图方案汇总；
 
-1. A Survey on Active Simultaneous Localization and Mapping-State of the Art and New Frontiers
-2. The Revisiting Problem in Simultaneous Localization and Mapping-A Survey on Visual Loop Closure Detection
-3. From SLAM to Situational Awareness-Challenges
-4. Simultaneous Localization and Mapping Related Datasets-A Comprehensive Survey
-5. LiDAR-Based Place Recognition For Autonomous Driving: A Survey
-6. LiDAR Odometry Survey: Recent Advancements and Remaining Challenges
-7. A Survey of Vehicle Localization: Performance Analysis and Challenges
-8. A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation
-9. LiDAR-based SLAM for robotic mapping: state of the art and new frontiers
+1. Localization and Mapping for Self-Driving Vehicles: A Survey
+2. How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: A Survey
+3. Survey of Deep Learning-Based Methods for FMCW Radar Odometry and Ego-Localization
+4. A review of visual SLAM for robotics evolution, properties, and future applications
+5. A comprehensive overview of core modules in visual SLAM framework
+6. Advancing Frontiers in SLAM: A Survey of Symbolic Representation and Human-Machine Teaming in Environmental Mapping
+7. Application of Event Cameras and Neuromorphic Computing to VSLAM: A Survey
+8. A Survey on Active Simultaneous Localization and Mapping-State of the Art and New Frontiers
+9. The Revisiting Problem in Simultaneous Localization and Mapping-A Survey on Visual Loop Closure Detection
+10. From SLAM to Situational Awareness-Challenges
+11. Simultaneous Localization and Mapping Related Datasets-A Comprehensive Survey
+12. LiDAR-Based Place Recognition For Autonomous Driving: A Survey
+13. LiDAR Odometry Survey: Recent Advancements and Remaining Challenges
+14. A Survey of Vehicle Localization: Performance Analysis and Challenges
+15. A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation
+16. LiDAR-based SLAM for robotic mapping: state of the art and new frontiers
+17. A Review of Dynamic Object Filtering in SLAM Based on 3D LiDAR
 
-### 22）模型部署量化
+### 23）点云处理
 
-1. Green Edge AI: A Contemporary Survey
-2. A Survey on Deep Neural Network CompressionChallenges, Overview, and Solutions
-3. Pruning and Quantization for Deep Neural Network Acceleration A Survey
+自动驾驶与3D视觉点云处理相关；
 
-### 23）协同感知
+1. A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation
+2. 3D point cloud for objects and scenes classification, recognition, segmentation, and reconstruction: A review
 
-1. Perception Methods for Adverse Weather Based on Vehicle Infrastructure Cooperation System: A Review
-2. Towards Vehicle-to-everything Autonomous Driving: A Survey on Collaborative Perception
+### 24）模型部署量化
 
-### 24）自动驾驶仿真
+1. From Algorithm to Hardware: A Survey on Efficient and Safe Deployment of Deep Neural Networks
+2. Green Edge AI: A Contemporary Survey
+3. A Survey on Deep Neural Network CompressionChallenges, Overview, and Solutions
+4. Pruning and Quantization for Deep Neural Network Acceleration A Survey
 
-1. A Survey of Integrated Simulation Environments for Connected Automated Vehicles: Requirements,  Tools, and Architecture
-2. A Survey of Simulators for Autonomous Driving: Taxonomy, Challenges, and Evaluation Metrics
-3. Data-driven Traffic Simulation: A Comprehensive  Review
+### 25）协同感知
 
-### 25）路面检测
+1. Towards autonomous vehicles: a survey on cooperative  vehicle-infrastructure system
+2. Collaborative Perception Datasets in Autonomous Driving: A Survey
+3. Perception Methods for Adverse Weather Based on Vehicle Infrastructure Cooperation System: A Review
+4. Towards Vehicle-to-everything Autonomous Driving: A Survey on Collaborative Perception
 
-1. Pavement Defect Detection with Deep Learning: A Comprehensive Survey
+### 26）自动驾驶仿真
 
-### 26）其它
+1. Review of the Learning-based Camera and Lidar Simulation Methods for Autonomous Driving Systems
+2. Surround-View Fisheye Optics in Computer Vision and Simulation: Survey and Challenges
+3. Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System
+4. A Survey of Integrated Simulation Environments for Connected Automated Vehicles: Requirements, Tools, and Architecture
+5. A Survey of Simulators for Autonomous Driving: Taxonomy, Challenges, and Evaluation Metrics
+6. Data-driven Traffic Simulation: A Comprehensive Review
 
-1. Recent Advances in Multi-modal 3D Scene Understanding: A Comprehensive Survey and Evaluation
-2. NeRF: Neural Radiance Field in 3D Vision, Introduction and Review
-3. 3D point cloud for objects and scenes classification,  recognition,  segmentation, and  reconstruction: A  review
+### 27）NeRF与Gaussain Splatting
+
+1. How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: A Survey
+2. Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review
+3. Recent Advances in 3D Gaussian Splatting
+4. Neural Radiance Field in Autonomous Driving: A Survey
+5. Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview
+6. Recent Advances in Multi-modal 3D Scene Understanding: A Comprehensive Survey and Evaluation
+7. NeRF: Neural Radiance Field in 3D Vision, Introduction and Review
+8. Dynamic NeRF: A Review
+
+### 28）数据挖掘与闭环
+
+1. Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies
+
+### 29）路面检测
+
+1. Road Surface Defect Detection – From Image-based to Non-image-based: A Survey
+2. Pavement Defect Detection with Deep Learning: A Comprehensive Survey
 
 ## 联系我们
 
