@@ -79,11 +79,17 @@
 
 [端到端自动驾驶论文带读课程](https://www.zdjszx.com/p/t_pc/course_pc_detail/camp_pro/course_2dafJ29B5gJfAaifAv2DouiEFai)
 
+[端到端任务工业界是怎么做的？国内首个面向工业级的端到端教程](https://mp.weixin.qq.com/s/GvjMJA6bvmXwXgYQc2eIKA)
+
 ### 10) 科研论文教程
 
 [自动驾驶与CV领域通用论文辅导教程](https://www.zdjszx.com/p/t_pc/course_pc_detail/camp_pro/course_2fVN5mXs65AOEQZk6ByGdSuzbF2)
 
-### 11) 大专栏系列
+### 11) 自动驾驶求职面试系列
+
+[自动驾驶1000问正式推出啦！求职面试必备](https://mp.weixin.qq.com/s/HRdjFov8ApVLqaikMW9__g)
+
+### 12) 大专栏系列
 
 [多传感器融合感知标定全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2PiRligVG0RyIohy6A3covkScbw)
 
@@ -171,39 +177,41 @@
 
 1. High-Definition Maps Construction Based on Visual Sensor: A Comprehensive Survey
 2. Data Issues in High Definition Maps Furniture – A Survey
-3. HDMapNet：基于语义分割的在线局部高精地图构建 (ICRA2022)
-4. VectorMapNet：基于自回归方式的端到端矢量化地图构建（ICML2023）
-5. MapTR ： 基于固定数目点的矢量化地图构建 (ICLR2023)
-6. MapTRv2：一种在线矢量化高清地图构建的端到端框架
-7. PivotNet：基于动态枢纽点的矢量化地图构建 （ICCV2023）
-8. BeMapNet：基于贝塞尔曲线的矢量化地图构建 (CVPR2023)
-9. LATR: 无显式BEV 特征的3D车道线检测 (ICCV2023)
-10. TopoNet: 基于图的驾驶场景拓扑推理
-11. TopoMLP: 先检测后推理（拓扑推理 strong pipeline）
-12. LaneGAP：连续性在线车道图构建
-13. Neural Map Prior: 神经地图先验辅助在线建图 （CVPR2023）
-14. MapEX：现有地图先验显著提升在线建图性能
+3. A Comprehensive Survey on High-Definition Map Generation and Maintenance
+4. HDMapNet：基于语义分割的在线局部高精地图构建 (ICRA2022)
+5. VectorMapNet：基于自回归方式的端到端矢量化地图构建（ICML2023）
+6. MapTR ： 基于固定数目点的矢量化地图构建 (ICLR2023)
+7. MapTRv2：一种在线矢量化高清地图构建的端到端框架
+8. PivotNet：基于动态枢纽点的矢量化地图构建 （ICCV2023）
+9. BeMapNet：基于贝塞尔曲线的矢量化地图构建 (CVPR2023)
+10. LATR: 无显式BEV 特征的3D车道线检测 (ICCV2023)
+11. TopoNet: 基于图的驾驶场景拓扑推理
+12. TopoMLP: 先检测后推理（拓扑推理 strong pipeline）
+13. LaneGAP：连续性在线车道图构建
+14. Neural Map Prior: 神经地图先验辅助在线建图 （CVPR2023）
+15. MapEX：现有地图先验显著提升在线建图性能
 
 ### 4）大模型与自动驾驶
 
 1. A Survey for Foundation Models in Autonomous Driving
 2. A Survey on Multimodal Large Language Models for Autonomous Driving
 3. A Survey of Large Language Models for Autonomous Driving
-4. CLIP：Learning Transferable Visual Models From Natural Language Supervision
-5. BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
-6. BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
-7. InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning
-8. MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
-9. InstructGPT：Training language models to follow instructions with human feedback
-10. ADAPT: Action-aware Driving Caption Transformer
-11. BEVGPT：Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning
-12. DriveGPT4：Interpretable End-to-end Autonomous Driving via Large Language Model
-13. Drive Like a Human Rethinking Autonomous Driving with Large Language Models
-14. Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving
-15. HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving
-16. LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving
-17. Planning-oriented Autonomous Driving
-18. WEDGE A multi-weather autonomous driving dataset built from generative vision-language models
+4. From Efficient Multimodal Models to World Models: A Survey
+5. CLIP：Learning Transferable Visual Models From Natural Language Supervision
+6. BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
+7. BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
+8. InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning
+9. MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
+10. InstructGPT：Training language models to follow instructions with human feedback
+11. ADAPT: Action-aware Driving Caption Transformer
+12. BEVGPT：Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning
+13. DriveGPT4：Interpretable End-to-end Autonomous Driving via Large Language Model
+14. Drive Like a Human Rethinking Autonomous Driving with Large Language Models
+15. Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving
+16. HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving
+17. LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving
+18. Planning-oriented Autonomous Driving
+19. WEDGE A multi-weather autonomous driving dataset built from generative vision-language models
 
 ### 5）Nerf与自动驾驶
 
@@ -222,6 +230,7 @@
 2. Grid-Centric Traffic Scenario Perception for Autonomous Driving: A Comprehensive Review
 3. A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective
 4. Vision-based 3D occupancy prediction in autonomous driving: a review and outlook
+5. A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective
 
 ### 7）BEV感知
 
@@ -276,6 +285,7 @@
 10. Survey and Systematization of 3D Object Detection Models and Methods
 11. Multi-Modal 3D Object Detection in Autonomous Driving: A Survey and Taxonomy
 12. Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook
+13. Recent Advances in 3D Object Detection for Self-Driving Vehicles: A Survey
 
 ### 11）多传感器标定
 
@@ -296,6 +306,7 @@
 5. Human-Like Decision-Making of Autonomous Vehicles in Dynamic Traffic Scenarios
 6. Machine Learning for Autonomous Vehicle’s Trajectory Prediction: A comprehensive survey, Challenges, and Future Research Directions
 7. Trajectory-Prediction with Vision: A Survey
+8. A Survey on Hybrid Motion Planning Methods for Automated Driving Systems
 
 ### 13）目标检测综述
 
@@ -309,6 +320,7 @@
 6. Object Detection in 20 Years：A Survey
 7. Object Detection in Autonomous Vehicles：Status and Open Challenges
 8. Recent Advances in Deep Learning for Object Detection
+9. Semi-Supervised Object Detection: A Survey on Progress from CNN to Transformer
 
 ### 14）数据增强与不均衡问题
 
@@ -378,6 +390,7 @@
 4. Monocular Depth Estimation：A Survey
 5. Outdoor Monocular Depth Estimation：A Research Review
 6. Towards Real-Time Monocular Depth Estimation for Robotics：A Survey
+7. Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey
 
 ### 19）关键点检测
 
@@ -448,6 +461,9 @@
 15. A Survey on Monocular Re-Localization: From the Perspective of Scene Map Representation
 16. LiDAR-based SLAM for robotic mapping: state of the art and new frontiers
 17. A Review of Dynamic Object Filtering in SLAM Based on 3D LiDAR
+18. A Survey of Visual SLAM in Dynamic Environment: The Evolution from Geometric to Semantic Approaches
+19. A comprehensive survey of advanced SLAM techniques
+20. Visual Slam and Visual Odometry Based on RGB-D Images Using Deep Learning: A Survey
 
 ### 23）点云处理
 
@@ -455,13 +471,15 @@
 
 1. A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation
 2. 3D point cloud for objects and scenes classification, recognition, segmentation, and reconstruction: A review
+3. Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey
 
-### 24）模型部署量化
+### 24）模型部署/压缩/量化
 
 1. From Algorithm to Hardware: A Survey on Efficient and Safe Deployment of Deep Neural Networks
 2. Green Edge AI: A Contemporary Survey
 3. A Survey on Deep Neural Network CompressionChallenges, Overview, and Solutions
 4. Pruning and Quantization for Deep Neural Network Acceleration A Survey
+5. Computer Vision Model Compression Techniques for Embedded Systems: A Survey
 
 ### 25）协同感知
 
@@ -478,6 +496,7 @@
 4. A Survey of Integrated Simulation Environments for Connected Automated Vehicles: Requirements, Tools, and Architecture
 5. A Survey of Simulators for Autonomous Driving: Taxonomy, Challenges, and Evaluation Metrics
 6. Data-driven Traffic Simulation: A Comprehensive Review
+7. A Survey of Vehicle Dynamics Modeling Methods for Autonomous Racing: Theoretical Models, Physical/Virtual Platforms, and Perspectives
 
 ### 27）NeRF与Gaussain Splatting
 
@@ -489,15 +508,27 @@
 6. Recent Advances in Multi-modal 3D Scene Understanding: A Comprehensive Survey and Evaluation
 7. NeRF: Neural Radiance Field in 3D Vision, Introduction and Review
 8. Dynamic NeRF: A Review
+9. 3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities
 
 ### 28）数据挖掘与闭环
 
 1. Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies
 
-### 29）路面检测
+### 29）强化学习
+
+1. Deep Reinforcement Learning for Robotics:A Survey of Real-World Successes
+
+### 30）路面检测
 
 1. Road Surface Defect Detection – From Image-based to Non-image-based: A Survey
 2. Pavement Defect Detection with Deep Learning: A Comprehensive Survey
+
+### 31）其它相关综述
+
+1. State-of-the-art in 1D Convolutional Neural Networks: A Survey
+2. Single-Image Shadow Removal Using Deep Learning: A Comprehensive Survey
+3. A Survey on Vision Mamba: Models, Applications and Challenges
+4. Memorization in deep learning: A survey
 
 ## 联系我们
 
