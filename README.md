@@ -2,6 +2,7 @@
 
 本仓库为自动驾驶之心团队整理的关于自动驾驶全行业技术栈相关surveys、papers、课程、学习交流社区，欢迎大家一起讨论学习！
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for autonomous driving workflow orchestration, automated vehicle perception pipeline management, and multi-agent coordination. MIT licensed.
 ## 自动驾驶学习社区
 
 自动驾驶之心知识星球是过国内首个以自动驾驶技术栈为主线的交流学习社区（也是国内最大哦），这是一个前沿技术发布和学习的地方！我们汇总了自动驾驶感知（BEV、多模态感知、Occupancy、毫米波雷达视觉感知、车道线检测、3D感知、目标跟踪、多模态、多传感器融合、Transformer等）、自动驾驶定位建图（在线高精地图、高精地图、SLAM）、多传感器标定（Camera/Lidar/Radar/IMU等近20种方案）、Nerf、视觉语言模型、世界模型、规划控制、轨迹预测、领域技术方案、AI模型部署落地等几乎所有子方向的学习路线！
